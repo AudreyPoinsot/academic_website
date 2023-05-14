@@ -19,7 +19,7 @@ My goal is to democratize the use of causal reasoning in statistical analysis fo
 ## News
 
 - **[Sept. 2023]** Attending the school <a href="https://quarter-on-causality.github.io/tools/">"Tools for Causality"</a>
-- **[July 2023]** Organising the Quarter student Hackathon on causality
+- **[July 2023]** Organising the Quarter student Hackathon on causality at University Paris Saclay
 - **[June 2023]** Attending the Quarter's third week of conference <a href="https://quarter-on-causality.github.io/practice/">"Causality in Practice"</a>
 - **[May. 2023]** Attending the Quarter's second week of conference <a href="https://quarter-on-causality.github.io/challenges/">"Fundamental Challenges in Causality"</a>
 - **[May. 2023]** Attending the 11th International Conference on Learning Representations (<a href="https://iclr.cc/">ICLR 2023</a>)

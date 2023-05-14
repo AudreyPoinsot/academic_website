@@ -39,8 +39,3 @@
   <li><a href="https://quarter-on-causality.github.io/opening/"><autocolor>Opening session of the Quarter on Causality 2023</autocolor></a></li>
   <li><a href="https://ellisalicante.org/eds2022/"><autocolor>ELLIS Doctoral Symposium 2022</autocolor></a></li>
 </ul>
-
-<h4 style="margin:0 10px 0;">Presentations</h4>
-
-<ul style="margin:0 0 5px;">
-</ul>
