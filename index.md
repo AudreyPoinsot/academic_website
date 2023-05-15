@@ -13,14 +13,11 @@ My goal is to democratize the use of causal reasoning in statistical analysis fo
 
 ## Research Interests
 
-- **Causality:** causal data generation & augmentation, causal benchmarks, causal uncertainty quantification
-- **Machine Learning:** Trustworthy ML (e.g. bias reduction, robustness, fairness, generalisation ...)
+- **<u>Causality:</u>** causal data generation & augmentation, causal benchmarks, causal uncertainty quantification
+- **<u>Machine Learning:</u>** Trustworthy ML (e.g. bias reduction, robustness, fairness, generalisation ...)
 
 ## News
 
-- **[Sept. 2023]** Attending the school <a href="https://quarter-on-causality.github.io/tools/">"Tools for Causality"</a>
-- **[July 2023]** Organising the Quarter student Hackathon on causality at University Paris Saclay
-- **[June 2023]** Attending the Quarter's third week of conference <a href="https://quarter-on-causality.github.io/practice/">"Causality in Practice"</a>
 - **[May. 2023]** Attending the Quarter's second week of conference <a href="https://quarter-on-causality.github.io/challenges/">"Fundamental Challenges in Causality"</a>
 - **[May. 2023]** Attending the 11th International Conference on Learning Representations (<a href="https://iclr.cc/">ICLR 2023</a>)
 - **[Apr. 2023]** Chairing and attending the Quarter's first week of conference <a href="https://quarter-on-causality.github.io/analysis/">"When Causal Inference meets Statistical Analysis"</a>
@@ -30,5 +27,6 @@ My goal is to democratize the use of causal reasoning in statistical analysis fo
 - **[June 2022]** Attending the Machine Learning Summer School (<a href="https://mlss2022.mlinpl.org/">MLSS22</a>) in Krakow, Poland
 
 {% include_relative _includes/publications_and_talks.md %}
+
 
 {% include_relative _includes/services.md %}
