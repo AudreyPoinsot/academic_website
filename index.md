@@ -6,9 +6,9 @@ layout: homepage
 
 I am a second year Ph.D. student at <a href="https://www.inria.fr/en/">INRIA</a> (Paris, France) under the supervision of <a href="https://www.lri.fr/~marc/">Marc Shoenauer</a> and <a href="https://scholar.google.fr/citations?user=V3fDydQAAAAJ&hl/">Alessandro Leite</a>. 
 
-At the intersection of Causality and Machine Learning, my current research project aims to improve decision-support tools with a specific interest in robustness and uncertainty. Having worked as a consultant for a year before starting my Ph.D., my research is driven by concrete use cases and applications. 
+At the intersection of Causality and Machine Learning, my current research project aims to improve decision-support tools with a specific interest in robustness and uncertainty. Having worked as a consultant for a year before starting my Ph.D. funded by this same company, my research is driven by concrete use cases and applications. 
 
-My goal is to democratize the use of causal reasoning in statistical analysis for decision-making by providing tools to create value easily, sustainably, and fairly.
+My goal is to provide advise and knowledge in order to democratize the use of causal reasoning in statistical analysis for decision-making by providing tools to create value easily, sustainably, and fairly.
 
 
 ## Research Interests
@@ -18,8 +18,8 @@ My goal is to democratize the use of causal reasoning in statistical analysis fo
 
 ## News
 
-- **[May. 2023]** Attending the Quarter's second week of conference <a href="https://quarter-on-causality.github.io/challenges/">"Fundamental Challenges in Causality"</a>
-- **[May. 2023]** Attending the 11th International Conference on Learning Representations (<a href="https://iclr.cc/">ICLR 2023</a>)
+- **[May 2023]** Attending the Quarter's second week of conference <a href="https://quarter-on-causality.github.io/challenges/">"Fundamental Challenges in Causality"</a>
+- **[May 2023]** Attending the 11th International Conference on Learning Representations (<a href="https://iclr.cc/">ICLR 2023</a>)
 - **[Apr. 2023]** Chairing and attending the Quarter's first week of conference <a href="https://quarter-on-causality.github.io/analysis/">"When Causal Inference meets Statistical Analysis"</a>
 - **[Apr. 2023]** Chairing and attending the <a href="https://quarter-on-causality.github.io/opening/">opening session</a> of our <a href="https://quarter-on-causality.github.io/#dates">Thematic Quarter on Causality</a>
 - **[Apr. 2023]** Our <a href="https://quarter-on-causality.github.io/#dates">Thematic Quarter on Causality</a> strats with a week <a href="https://quarter-on-causality.github.io/school/">school on causality</a>
