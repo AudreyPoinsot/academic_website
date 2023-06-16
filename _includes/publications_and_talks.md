@@ -31,6 +31,12 @@
 
 ## Talks
 
+<h4 style="margin:0 10px 0;">Presentations</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>Reconciling Mix Marketing Modelling and Causal Inference at <a href="https://quarter-on-causality.github.io/practice/"><autocolor>Causality in Practice (Quarter on Causality) 2023</autocolor></a>, <a href="https://audreypoinsot.github.io/academic_website/assets/files/causality_in_practice_MMM_causality.pdf">slides</a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Posters</h4>
 
 <ul style="margin:0 0 5px;">

@@ -18,6 +18,7 @@ My goal is to provide advise and knowledge in order to democratize the use of ca
 
 ## News
 
+- **[June 2023]** Presenting at the Quarter on Causality, <a href="https://quarter-on-causality.github.io/practice/">"Causality in Practice"</a>
 - **[May 2023]** Attending the Quarter's second week of conference <a href="https://quarter-on-causality.github.io/challenges/">"Fundamental Challenges in Causality"</a>
 - **[May 2023]** Attending the 11th International Conference on Learning Representations (<a href="https://iclr.cc/">ICLR 2023</a>)
 - **[Apr. 2023]** Chairing and attending the Quarter's first week of conference <a href="https://quarter-on-causality.github.io/analysis/">"When Causal Inference meets Statistical Analysis"</a>
