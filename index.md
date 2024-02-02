@@ -18,6 +18,8 @@ My goal is to provide advise and knowledge in order to democratize the use of ca
 
 ## News
 
+- **[Jan. 2024]** Presenting at <a href="https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/"><autocolor>Young Statisticians and Probabilists Day 2024</autocolor></a>
+- **[Sept. 2023]** Attending the school <a href="https://quarter-on-causality.github.io/tools/">"Tools for Causality"</a>
 - **[July 2023]** Created a Hackathon, <em>"Estimating Marketing Uplifts as Heterogeneous Treatment Effects with Meta-Learners"</em>, for the <a href="https://quarter-on-causality.github.io/seme/">"Study week Causal Inference for Industry"</a> at University Paris Saclay, <a href="https://audreypoinsot.github.io/academic_website/assets/files/challenge_Ekimetrics_study_week_causality.pdf">subject</a>
 - **[June 2023]** Presenting at the Quarter on Causality, <a href="https://quarter-on-causality.github.io/practice/">"Causality in Practice"</a>
 - **[May 2023]** Attending the Quarter's second week of conference <a href="https://quarter-on-causality.github.io/challenges/">"Fundamental Challenges in Causality"</a>

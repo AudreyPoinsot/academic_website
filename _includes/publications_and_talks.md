@@ -34,6 +34,7 @@
 <h4 style="margin:0 10px 0;">Presentations</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><strong>Causal Data Augmentation: Causality to serve Machine Learning</strong>, at <em><a href="https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/"><autocolor>Young Statisticians and Probabilists Day 2024</autocolor></a></em>, <a href="https://audreypoinsot.github.io/academic_website/assets/files/APoinsot_causal_data_aug_YSP.pdf">slides</a></li>
   <li><strong>Reconciling Mix Marketing Modelling and Causal Inference</strong>, at <em><a href="https://quarter-on-causality.github.io/practice/"><autocolor>Causality in Practice (Quarter on Causality) 2023</autocolor></a></em>, <a href="https://audreypoinsot.github.io/academic_website/assets/files/causality_in_practice_MMM_causality.pdf">slides</a></li>
 </ul>
 
