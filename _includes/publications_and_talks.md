@@ -23,6 +23,26 @@
   </div>
 </div>
 </li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/classif_DSCM.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IJCAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2405.05025">Learning Structural Causal Models through Deep Generative Models: Methods, Guarantees, and Challenges</a></div>
+    <div class="author"><strong>Audrey Poinsot</strong>, Alessandro Leite, Nicolas Chesneau, Michèle Sébag, Marc Schoenauer</div>
+    <div class="periodical"><em><a href="https://ijcai24.org/">33rd International Joint Conference on Artificial Intelligence</a> <strong>(IJCAI)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2405.05025" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#e74d3c">Poster</i></strong>
+    </div>
+  </div>
+</div>
+</li>
   
 <br>
 
