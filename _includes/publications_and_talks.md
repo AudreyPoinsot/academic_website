@@ -23,7 +23,7 @@
 </div>
 </li>
 
-</br>
+<br>
 
 <li>
 <div class="pub-row">
