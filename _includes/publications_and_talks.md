@@ -17,7 +17,7 @@
     <div class="periodical"><em><a href="https://ijcai24.org/">33rd International Joint Conference on Artificial Intelligence</a> <strong>(IJCAI)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2405.05025" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#e74d3c">Poster</i></strong>
+      <strong><i style="color:#e74d3c">Talk & Poster</i></strong>
     </div>
   </div>
 </div>
