@@ -1,6 +1,6 @@
 ## News
 
-- **[Sept. 2023]** Attending the school <a href="https://quarter-on-causality.github.io/tools/">"Tools for Causality"</a>
+- **[Sept. 2023]** Attending the school <a href="https://www.genai-school.universite-paris-saclay.fr/">"GenAI school Paris 2024"</a>
 
 
 
