@@ -18,6 +18,7 @@ My goal is to provide advise and knowledge in order to democratize the use of ca
 
 ## News
 
+- **[August 2024]** Attending the 33rd International Joint Conference on Artificial Intelligence (<a href="https://ijcai24.org/">IJCAI 2024</a>)
 - **[June-Sept. 2024]** Research visitor in the <a href="https://causalai.net/">Causal Artificial Intelligence Lab</a> of the Department of Computer Science of Columbia University, New York
 - **[Jan. 2024]** Presenting at <a href="https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/journees_ysp/564-accueil_ysp/">Young Statisticians and Probabilists Day 2024</a>
 - **[Sept. 2023]** Attending the school <a href="https://quarter-on-causality.github.io/tools/">"Tools for Causality"</a>
