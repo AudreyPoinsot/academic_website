@@ -64,6 +64,7 @@
 <h4 style="margin:0 10px 0;">Posters</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="http://aiconference.ip-paris.fr/"><autocolor>AI, Sceince and Society Conference</autocolor></a> part of the AI Action Summit Paris 2025</li>
   <li><a href="https://ijcai24.org/"><autocolor>33rd International Joint Conference on Artificial Intelligence 2024</autocolor></a>, <a href="https://audreypoinsot.github.io/academic_website/assets/files/IJCAI24_dscm_survey_poster.pdf">poster</a></li>
   <li><a href="https://sites.google.com/view/trustml-unlimited/"><autocolor>Workshop on Pitfalls of limited data and computation for Trustworthy ML (ICLR) 2023</autocolor></a></li>
   <li><a href="https://quarter-on-causality.github.io/analysis/"><autocolor>When Causal Inference meets Statistical Analysis (Quarter on Causality) 2023</autocolor></a></li>
